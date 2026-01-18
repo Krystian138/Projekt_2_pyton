@@ -14,5 +14,5 @@ Prosta aplikacja typu „mini-SCADA” pokazująca instalację z 4 zbiornikami (
 - PyQt5
 
 Instalacja PyQt5:
-```bash
+
 pip install PyQt5
