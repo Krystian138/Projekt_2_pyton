@@ -7,7 +7,7 @@ Prosta aplikacja typu „mini-SCADA” pokazująca instalację z 4 zbiornikami (
 - przelewy grawitacyjne po przekroczeniu poziomu króćców
 - odpływ z dołu zbiornika T4
 - alarmy (np. za niski / za wysoki poziom, itp.)
-- dodatkowy widok „instalacja/wykresy” (trend)
+- dodatkowy widok „instalacja/wykresy” 
 
 ## Wymagania
 - Python 3.10+ 
