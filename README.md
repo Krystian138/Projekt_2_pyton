@@ -10,7 +10,7 @@ Prosta aplikacja typu „mini-SCADA” pokazująca instalację z 4 zbiornikami (
 - dodatkowy widok „instalacja/wykresy” (trend)
 
 ## Wymagania
-- Python 3.10+ (działa też na 3.9+)
+- Python 3.10+ 
 - PyQt5
 
 Instalacja PyQt5:
